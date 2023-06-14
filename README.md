@@ -56,9 +56,9 @@ To set up a development environment, please follow these steps:
      npm install
     ```
 
-    If you get an error, please check the console for more information.
+<!--     If you get an error, please check the console for more information.
 
-    If you don't get an error, you are ready to start your development.
+    If you don't get an error, you are ready to start your development. -->
 
 4. Run the app
    
