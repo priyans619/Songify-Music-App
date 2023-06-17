@@ -41,13 +41,13 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/priyans619/Music-App
+    git clone https://github.com/priyans619/Songify-Music-App
    ```
 
 2. Change directory to the project directory
 
     ```shell
-    cd Music-App
+    cd Songify-Music-App
     ```
 
 3. Install the dependencies
