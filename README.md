@@ -53,7 +53,7 @@ To set up a development environment, please follow these steps:
 3. Install the dependencies
    
      ```shell
-     npm install
+     npm install/ npm i
       ```
 
    If you get an error, please check the console for more information.
