@@ -14,7 +14,7 @@
 
 To get started with development, you need to install few tools
 
-1. git 
+1. **git** 
    
    `git` version 2.40.0 or higher. Download [git](https://git-scm.com/downloads) if you don't have it already.
 
@@ -24,7 +24,7 @@ To get started with development, you need to install few tools
     git --version
    ```
 
-2. node 
+2. **node** 
    
    `node` version 16.15.1 or higher. Download [node](https://nodejs.org/en/download/) if you don't have it already.
 
@@ -34,7 +34,7 @@ To get started with development, you need to install few tools
     node --version
    ```
 
-3. npm
+3. **npm**
   
    `npm` version 9.5.0 or higher. You will have it after you install node.
 
