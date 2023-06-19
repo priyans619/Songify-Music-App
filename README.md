@@ -8,6 +8,12 @@
    a) Use **Shazam Core API** to gather music data.
  
    b) Use **IP Geolocation API** to get the user’s location.
+   
+3.**Libraries**:
+    
+   a) UI kit- **Tailwind CSS** (You can choose any Material UI or plain CSS)
+
+   b) **Redus Toolkit** for organised API calls
 
 
 ## System Requirements
