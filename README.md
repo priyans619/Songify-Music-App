@@ -1,11 +1,13 @@
 # Music-App
 
 ## Technologies
-1.React.js (Next.js)
+1.React.js **(Next.js)**
 
 2.APIs:
-Use Shazam Core API to gather music data
-Use IP Geolocation API to get the user’s location
+
+   a) Use **Shazam Core API** to gather music data.
+ 
+   b) Use **IP Geolocation API** to get the user’s location.
 
 
 ## System Requirements
