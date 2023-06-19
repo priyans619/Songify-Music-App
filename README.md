@@ -3,7 +3,7 @@
 ## Technologies
 1.React.js **(Next.js)**
 
-2.APIs:
+2.**API**'s:
 
    a) Use **Shazam Core API** to gather music data.
  
