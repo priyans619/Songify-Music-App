@@ -22,6 +22,9 @@
 
 3.**Artists Page** - Users can see a list of the most famous artists
 
+4.**Artist Details Page** - Users can see additional information about the artist and their most popular songs.
+
+
 
 
 
