@@ -26,6 +26,9 @@
 
 5.**Song Details Page** -Users can see additional information about the song, such as the song’s music video and lyrics and a list of similar songs.
 
+6.**Music Player** - Users can click on player which includes basic controls such as previous song, the next song, and pause/play buttons. Additional details such as the song’s name, author, volume, repeat, and duration controls are a plus.
+
+
 
 
 
