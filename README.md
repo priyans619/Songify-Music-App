@@ -20,6 +20,9 @@
 
 2.**Explore** - Users can select a country and get the top songs for that country
 
+3.**Artists Page** - Users can see a list of the most famous artists
+
+
 
 
 
