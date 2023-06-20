@@ -24,6 +24,9 @@
 
 4.**Artist Details Page** - Users can see additional information about the artist and their most popular songs.
 
+5.**Song Details Page** -Users can see additional information about the song, such as the song’s music video and lyrics and a list of similar songs.
+
+
 
 
 
