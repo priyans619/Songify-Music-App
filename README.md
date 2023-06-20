@@ -15,6 +15,8 @@
 
    b) **Redus Toolkit** for organised API calls
 
+## Functionalities   
+
 
 ## System Requirements
 
