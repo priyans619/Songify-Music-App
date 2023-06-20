@@ -5,15 +5,15 @@
 
 2.**API**'s:
 
-   a) Use **Shazam Core API** to gather music data.
+   a) Use ***Shazam Core API*** to gather music data.
  
-   b) Use **IP Geolocation API** to get the user’s location.
+   b) Use ***IP Geolocation API*** to get the user’s location.
    
 3.**Libraries**:
     
-   a) UI kit- **Tailwind CSS** (You can choose any Material UI or plain CSS)
+   a) UI kit- ***Tailwind CSS*** (You can choose any Material UI or plain CSS)
 
-   b) **Redus Toolkit** for organised API calls
+   b) ***Redus Toolkit*** for organised API calls
 
 ## Functionalities
 1.**Homepage** - Users can choose a genre and get the top songs for that genre.
