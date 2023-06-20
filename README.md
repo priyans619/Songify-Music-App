@@ -15,7 +15,9 @@
 
    b) **Redus Toolkit** for organised API calls
 
-## Functionalities   
+## Functionalities
+1.**Homepage** - Users can choose a genre and get the top songs for that genre
+
 
 
 ## System Requirements
