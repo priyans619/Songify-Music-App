@@ -18,6 +18,9 @@
 ## Functionalities
 1.**Homepage** - Users can choose a genre and get the top songs for that genre
 
+2.**Explore** - Users can select a country and get the top songs for that country
+
+
 
 
 ## System Requirements
