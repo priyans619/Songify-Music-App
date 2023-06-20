@@ -16,11 +16,11 @@
    b) **Redus Toolkit** for organised API calls
 
 ## Functionalities
-1.**Homepage** - Users can choose a genre and get the top songs for that genre
+1.**Homepage** - Users can choose a genre and get the top songs for that genre.
 
-2.**Explore** - Users can select a country and get the top songs for that country
+2.**Explore** - Users can select a country and get the top songs for that country.
 
-3.**Artists Page** - Users can see a list of the most famous artists
+3.**Artists Page** - Users can see a list of the most famous artists.
 
 4.**Artist Details Page** - Users can see additional information about the artist and their most popular songs.
 
