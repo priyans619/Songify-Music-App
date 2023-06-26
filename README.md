@@ -1,7 +1,7 @@
 # Music-App
 
 ## Technologies
-1.**React.js** (Next.js)
+1.**React.js** (**Next.js**)
 
 2.**API**'s:
 
