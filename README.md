@@ -28,6 +28,9 @@
 
 6.**Music Player** - Users can click on player which includes basic controls such as previous song, the next song, and pause/play buttons. Additional details such as the song’s name, author, volume, repeat, and duration controls are a plus.
 
+7.**Exceptional Design** - Make your design stand out; everyone loves a beautiful user interface. Brand it as a real app and stay consistent with the colors, icons, and design.
+
+
 
 
 
