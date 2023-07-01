@@ -6,8 +6,8 @@
 ### Top Artist
 ![Top artist](https://github.com/priyans619/Songify-Music-App/assets/46921513/287b1f4b-e1ac-419e-b6de-784e57556645)
 
-
 ### Weekend(Search your fav songs)
+![weekend](https://github.com/priyans619/Songify-Music-App/assets/46921513/e00cb3df-36a3-4274-96ab-5d0bd4910ec3)
 
 
 
