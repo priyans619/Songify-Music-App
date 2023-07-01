@@ -43,6 +43,9 @@
 
 7.**Search Functionality** - Users can start typing artists or song names, and results based on their search will show up.
 
+## Future Work
+1. **Explore** - User will be able to select the genre for paricular song . Users will able to see top songs in their country. 
+
 
 
 
