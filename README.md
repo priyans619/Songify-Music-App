@@ -1,5 +1,16 @@
 # Music-App
 ## Take A Look!!!
+### Discover Page
+![Discover](https://github.com/priyans619/Songify-Music-App/assets/46921513/27bda122-9dd9-47ff-ac22-90cb7a849563)
+
+### Top Artist
+
+
+### Weekend(Search your fav songs)
+
+
+
+
 
 ## Technologies
 1.**React.js** (**Next.js**)
