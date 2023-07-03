@@ -42,14 +42,13 @@
 6.**Search Functionality** - Users can start typing artists or song names, and results based on their search will show up.
 
 ## Future Work
-1. **Explore** - User will be able to select the genre for paricular song . Users will able to see top songs in their country. 
+1. **Explore** - User will be able to select the genre for paricular song . Users will able to see top songs in their country.
 
-
-
-
-
-
-
+## Contributing
+1.Fork it (https://github.com/priyans619/Songify-Music-App/fork)
+2.Create new branch : git checkout -b new_feature
+3.Commit your changes : git commit -am 'Added new_feature'
+4.Push to the branch : git push origin new_feature
 
 
 
