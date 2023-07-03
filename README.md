@@ -33,15 +33,13 @@
 
 2.**Artists Page** - Users can see a list of the most famous artists.
 
-3.**Artist Details Page** - Users can see additional information about the artist and their most popular songs.
+3.**Song Details Page** -Users can see additional information about the song, such as the song’s music video and lyrics and a list of similar songs.
 
-4.**Song Details Page** -Users can see additional information about the song, such as the song’s music video and lyrics and a list of similar songs.
+4.**Music Player** - Users can click on player which includes basic controls such as previous song, the next song, and pause/play buttons. Additional details such as the song’s name, author, volume, repeat, and duration controls are a plus.
 
-5.**Music Player** - Users can click on player which includes basic controls such as previous song, the next song, and pause/play buttons. Additional details such as the song’s name, author, volume, repeat, and duration controls are a plus.
+5.**Exceptional Design** - Everyone loves a beautiful user interface. So brand it as a real app and stay consistent with the colors, icons, and design.
 
-6.**Exceptional Design** - Everyone loves a beautiful user interface. So brand it as a real app and stay consistent with the colors, icons, and design.
-
-7.**Search Functionality** - Users can start typing artists or song names, and results based on their search will show up.
+6.**Search Functionality** - Users can start typing artists or song names, and results based on their search will show up.
 
 ## Future Work
 1. **Explore** - User will be able to select the genre for paricular song . Users will able to see top songs in their country. 
