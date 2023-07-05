@@ -24,7 +24,7 @@
    
 3.**Libraries**:
     
-   a) UI kit- ***Tailwind CSS*** (You can choose any Material UI or plain CSS)
+   a) **UI kit**- ***Tailwind CSS*** (You can choose any Material UI or plain CSS)
 
    b) ***Redus Toolkit*** for organised API calls
 
